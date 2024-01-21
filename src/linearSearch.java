@@ -50,7 +50,7 @@ public class linearSearch {
                 right = mid -1;
         }
         return -1;
-        //RRr
+
     }
 
     //    LinearSearch
